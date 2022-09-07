@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @BoleToEkDumNoob
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on i don't know yet  
-- 📫 How to reach me i don't have a phone
+- 👋 Hi, I’m Ankur Gurung.
+- 👀 I’m interested in Python and Java.
+- 🌱 I’m currently learning Python and Java.
 
 <!---
 BoleToEkDumNoob/BoleToEkDumNoob is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
